@@ -1,4 +1,4 @@
-public class Printlearningcommitment {
+public class PrintLearningCommitment {
     public static void main(String[] args) {
         // Display the student's learning track.
         System.out.println("Track: Java Development");
@@ -7,3 +7,4 @@ public class Printlearningcommitment {
         System.out.println("Daily Practice: 8 Hours");
     }
 }
+
